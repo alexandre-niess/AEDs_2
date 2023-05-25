@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
 
-class AAA{
+class TP02Q02{
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
